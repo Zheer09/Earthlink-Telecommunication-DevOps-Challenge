@@ -7,11 +7,7 @@ In order this task to work your Network device should allow SSH so you need to e
 
 There are couple of the Environment variable to initialize before running the `auto-connect.sh` bash command , these are the variable to initialize :
 
-**SSH_PASS
-USERNAME
-HOST_IP
-DEVICE_NAME
-DEVICE_PASS**
+    SSH_PASS ,USERNAME ,HOST_IP ,DEVICE_NAME ,DEVICE_PASS
 
 In the terminal run this command:
 
